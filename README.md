@@ -47,26 +47,4 @@ Developing scalable web applications, backend services, and API-driven platforms
 - Learning **AI frameworks**
 - Improving **system design skills**
 
----
 
-## Daily DSA Practice
-
-I document my daily problem solving here:
-
-Daily-DSA Repository  
-https://github.com/Amruthh05/Daily-DSA
-
----
-
-
-
-## Connect With Me
-
-Email: amruths101@gmail.com  
-LinkedIn: https://linkedin.com/in/amrutheshwaras  
-
----
-
-## Goal
-
-To become a skilled developer capable of designing **scalable web applications and intelligent systems** that solve real-world problems.
