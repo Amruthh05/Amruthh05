@@ -1,6 +1,9 @@
 # Hi, I'm Amrutheshwara S 👋
 
-Computer Science Engineering student passionate about **Python, Data Structures & Algorithms, Full Stack Development, and Artificial Intelligence**.
+Full Stack Developer | Python Developer
+
+I am a Computer Science Engineering student passionate about building scalable web applications and solving real-world problems using Python and modern web technologies.
+
 
 Currently improving problem-solving skills through **daily DSA practice** and  **building scalable web applications and intelligent systems**.
 
@@ -41,10 +44,11 @@ Currently improving problem-solving skills through **daily DSA practice** and  *
 
 ## Current Focus
 
+
 - Practicing **Data Structures and Algorithms**
-- Learning **system design concepts**
-- Building **scalable web applications**
-- Exploring **Artificial Intelligence frameworks**
+- Building **scalable full stack web applications**
+- Learning **AI frameworks**
+- Improving **system design skills**
 
 ---
 
