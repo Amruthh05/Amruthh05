@@ -1,11 +1,8 @@
 # Hi, I'm Amrutheshwara S 👋
 
-Full Stack Developer | Python Developer
+Software Developer | Python & Full Stack
 
-I am a Computer Science Engineering student passionate about building scalable web applications and solving real-world problems using Python and modern web technologies.
-
-
-Currently improving problem-solving skills through **daily DSA practice** and  **building scalable web applications and intelligent systems**.
+Developing scalable web applications, backend services, and API-driven platforms using Python and modern technologies. Interested in building intelligent systems, automation workflows, and reliable software solutions.
 
 ---
 
