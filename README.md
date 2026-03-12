@@ -61,19 +61,12 @@ https://github.com/Amruthh05/Daily-DSA
 
 ---
 
-## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amruthh05&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruthh05&layout=compact&theme=tokyonight)
-
----
 
 ## Connect With Me
 
 Email: amruths101@gmail.com  
 LinkedIn: https://linkedin.com/in/amrutheshwaras  
-GitHub: https://github.com/Amruthh05
 
 ---
 
