@@ -2,7 +2,7 @@
 
 Computer Science Engineering student passionate about **Python, Data Structures & Algorithms, Full Stack Development, and Artificial Intelligence**.
 
-Currently improving problem-solving skills through **daily DSA practice** and learning how to **build scalable web applications and intelligent systems**.
+Currently improving problem-solving skills through **daily DSA practice** and  **building scalable web applications and intelligent systems**.
 
 ---
 
